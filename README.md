@@ -3,7 +3,8 @@ Install this action script to get Google Translator in your context menu, so you
 
 If you are not native english speaker, you may be frustrated with default Look Up options. There are multiple dictionaries, wikipedia and news but your language is not listed here. Fortunately there is other option. 
 
-![Google Translator Context Menu](/screenshots/Google Translator Context Menu.png)
+![Google Translator Context Menu](https://github.com/molcik/macosx-context-menu-translator/blob/master/screenshots/Google%20Translator%20Context%20Menu.png)
+
 
 ## Download 
 [macosx-context-menu-translator](https://github.com/molcik/macosx-context-menu-translator/releases/tag/v1.0)
